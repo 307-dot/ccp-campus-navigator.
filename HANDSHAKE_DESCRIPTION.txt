@@ -1,0 +1,11 @@
+CCP Campus Navigator — Indoor Navigation Student Prototype
+
+I designed and built an interactive prototype for an indoor campus navigation experience that helps students find classrooms and campus services more easily.
+
+The prototype includes a real floor-plan map, route visualization, destination and starting-point selection, accessible-route settings, elevator-status information, a hidden navigation drawer, dark mode, route clearing, and a simulated start-navigation experience.
+
+The project demonstrates UI/UX design, front-end development, accessibility thinking, indoor wayfinding concepts, and iterative prototyping. I used AI assistance during ideation, interface refinement, and development while directing the overall concept, feature decisions, and design.
+
+Technologies: HTML, CSS, JavaScript, SVG route overlays, responsive UI, AI-assisted prototyping.
+
+Independent student prototype. Not an official Community College of Philadelphia product.
